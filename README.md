@@ -57,7 +57,7 @@ The program expects a 9x9 grid of numbers, with `0` representing empty cells.
 
 Refer to the image below for a visual representation of the input format:
 
-![Input Format](input.png)
+![Input Format](input.PNG)
 
 ### Output
 
@@ -65,13 +65,13 @@ If the puzzle has a solution, it will be displayed as a 9x9 grid. If there is no
 
 Refer to the images below for sample input and output:
 
-![Sample Sudoku Puzzle](sudoku.png)
-![Solved Sudoku Puzzle](output.png)
+![Sample Sudoku Puzzle](sudoku.PNG)
+![Solved Sudoku Puzzle](output.PNG)
 
 ## Sample Execution
 
-![Input](input.png)
-![Output](output.png)
+![Input](input.PNG)
+![Output](output.PNG)
 
 ## License
 
